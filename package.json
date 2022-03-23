@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/AlyaaXd/rfkbot",
+  "homepage": "https://github.com/Whats-bot/blac",
   "author": {
     "name": "AlyaaXd"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlyaaXd/rfkbot.git"
+    "url": "git+https://github.com/Whats-bot/blac.git"
   },
   "bugs": {
-    "url": "https://github.com/AlyaaXd/rfkbot/issues"
+    "url": "https://github.com/Whats-bot/blac/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
